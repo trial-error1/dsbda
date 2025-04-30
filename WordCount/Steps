@@ -1,0 +1,16 @@
+1. gedit mapper.py
+2. gedit word.txt 
+	ait
+	dighi 
+	Pune
+	ait
+	dighi 
+	Pune
+  ait
+	dighi 
+	Pune
+3. cat word.txt | python mapper.py 
+4. gedit reducer.py
+5. cat word.txt | python mapper.py | sort | python reducer.py 
+   It will generate final ouptput
+
