@@ -6,7 +6,7 @@
 	ait
 	dighi 
 	Pune
-  ait
+  	ait
 	dighi 
 	Pune
 3. cat word.txt | python mapper.py 
